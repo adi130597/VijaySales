@@ -1,0 +1,22 @@
+{
+  "name": "vijaysales",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adi130597/vijaysales.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adi130597/vijaysales/issues"
+  },
+  "homepage": "https://github.com/adi130597/vijaysales#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
